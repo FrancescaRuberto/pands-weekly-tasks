@@ -1,7 +1,7 @@
 # This program tasked a positive floating-point number and outputs an approximation of its square roots.
 # Author: Francesca Ruberto
 
-# First thing I believe I should import the math module
+# To begin, I believe I should import the math module
 # As I have to use sqrt function
 
 import math
