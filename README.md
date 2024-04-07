@@ -82,4 +82,18 @@ Note 1: This week's assignment presented a notable challenge, taking me more tim
 Note2: The solution to this task can be found in the program uploaded to this Git repository.
 
 ## Week 7 - es.py
+Description: This week's focus includes mastering the fundamentals of reading and writing files, along with an introduction to JSON and CSV file formats. Additionally, we delve deeper into Python functions and modules, emphasizing the importance of modular code for readability and maintainability. Error handling techniques are explored to ensure program robustness.
 
+Weekly task: this week's task is designed to count the occurrences of the letter 'e' in a text file provided as an argument via the command line. The script incorporates error handling to address scenarios such as missing arguments, non-existent files, or files that are not in a text format.
+
+Note1: This code snippet is designed to count the occurrences of the letter "e" in a text file named "moby-dick.txt." The program incorporates error handling to address scenarios such as missing files or files that are not in a text format. Assumptions made during the development process include the file's existence in the same directory as the script and the filename being provided as just the name of the file without a full path. To handle errors effectively, I relied on online material to ensure proper error messages and handling techniques, as precise completion instructions were not provided. The online sources I used included:
+- GeeksForGeeks https://www.geeksforgeeks.org/os-module-python-examples/
+- Java2B1og https://java2blog.com/check-if-variable-is-none-python/
+- Python Documentation https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+- Python Documentation https://docs.python.org/3/tutorial/errors.html
+- Real Python https://realpython.com/python-exceptions/
+- Real Python https://www.google.com/search?q=Python+Exception+Handling+Techniques&rlz=1C1CHBF_itIE1032IE1032&oq=Python+Exception+Handling+Techniques&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIICAEQABgWGB7SAQczNjFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+- W3 School https://www.w3schools.com/python/module_os.asp
+- W3 School https://www.w3schools.com/python/ref_string_count.asp
+
+Note2: The solution to this task can be found in the program uploaded to this Git repository.
