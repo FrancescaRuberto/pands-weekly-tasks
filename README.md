@@ -65,7 +65,7 @@ Note1: At the beginning of this task, I encountered challenges as I didn't initi
 
 Note2: The solution to this task can be found in the program uploaded to this Git repository.
 
-## Week 6 - squareroot.py
+### Week 6 - squareroot.py
 Description: This week our attention turns towards the crucial concepts of functions and modules. The lab assignment challenges us to create a more extensive program, emphasizing the importance of breaking down code into modular functions for enhanced readability and maintainability. 
 
 Weekly task: The weekly task involved crafting a program capable of taking a positive floating-point number as input and delivering an approximation of its square root. The key requirement is to construct a function, named sqrt, to execute this operation. Importantly, we are urged to refrain from using convenient built-in methods such as x ** 0.5 or math.sqrt(x).
@@ -81,7 +81,7 @@ Note 1: This week's assignment presented a notable challenge, taking me more tim
 
 Note2: The solution to this task can be found in the program uploaded to this Git repository.
 
-## Week 7 - es.py
+### Week 7 - es.py
 Description: This week's focus includes mastering the fundamentals of reading and writing files, along with an introduction to JSON and CSV file formats. Additionally, we delve deeper into Python functions and modules, emphasizing the importance of modular code for readability and maintainability. Error handling techniques are explored to ensure program robustness.
 
 Weekly task: this week's task is designed to count the occurrences of the letter 'e' in a text file provided as an argument via the command line. The script incorporates error handling to address scenarios such as missing arguments, non-existent files, or files that are not in a text format.
