@@ -80,3 +80,6 @@ Note 1: This week's assignment presented a notable challenge, taking me more tim
 - Wikipedia https://en.wikipedia.org/wiki/Newton%27s_method
 
 Note2: The solution to this task can be found in the program uploaded to this Git repository.
+
+## Week 7 - es.py
+
