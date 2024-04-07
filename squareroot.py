@@ -1,5 +1,5 @@
-# This program tasked a positive floating-point number and outputs an approximation of its square roots.
-# Author: Francesca Ruberto
+#This program tasked a positive floating-point number and outputs an approximation of its square roots.
+#Author: Francesca Ruberto
 
 # To begin, I believe I should import the math module
 # As I have to use sqrt function
