@@ -1,5 +1,8 @@
+#This program should reads in a text file and outputs the number of e's it contains
+#Author: Francesca Ruberto
+
 def count_es(filename):
-    # Import os to check file existence
+    # Import os to check file 
     import os 
 
     # We need to count the occurrences of the letter "e" in the text file
