@@ -96,4 +96,5 @@ Note1: This code snippet is designed to count the occurrences of the letter "e" 
 - W3 School https://www.w3schools.com/python/module_os.asp
 - W3 School https://www.w3schools.com/python/ref_string_count.asp
 
-Note2: The solution to this task can be found in the program uploaded to this Git repository.
+Note2: The solution to this task can be found in the program uploaded to this Git repository. 
+
