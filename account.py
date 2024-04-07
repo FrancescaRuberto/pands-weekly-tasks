@@ -1,5 +1,5 @@
 # This program should read a 10 character account number and give as output only the last 4 digits. 
-# Author: Francesca Ruberto 
+# Author: Francesca Ruberto
 
 # I should start by writing my string input
 # account_number = str(input("Please enter a 10-digits code: "))
