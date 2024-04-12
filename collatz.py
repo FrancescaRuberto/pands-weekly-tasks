@@ -2,9 +2,9 @@
 # Then, it outputs the successive values of the following calculaions
 # Author: Francesca Ruberto
 
-# I need to calculate the next value by taking the current value
-# and if this is even, divide by two
-# and if it is off, multiply by three and add one
+# We calculate the next value by taking the current value
+# and if it is even, divide by two,
+# and if it is odd, multiply by three and add one.
 
 
 # First thing I need to establish the question for the user
