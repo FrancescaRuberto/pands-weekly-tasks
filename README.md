@@ -101,7 +101,10 @@ Note2: The solution to this task can be found in the program uploaded to this Gi
 ### Week 8 - plottask.py
 Description: This week, we delved into plotting using Matplotlib, a versatile Python library. Alongside, we introduced NumPy for efficient array manipulation, as Matplotlib often utilizes NumPy arrays for plotting. While we covered basic plotting techniques, both libraries offer extensive capabilities. Additionally, Seaborn, built on Matplotlib, provides further features for statistical data visualization. The project details for assessment are now available, marking the conclusion of weekly tasks. 
 
-Weekly task: 
-This week's task centered on Matplotlib plotting. While the histogram part felt familiar, the second task, plotting the function h(x) = x^3, posed a challenge. To understand the approach, I delved into NumPy documentation extensively. After some research, I found suitable options to accomplish the plot. Despite the initial difficulty, I managed to complete the task by keeping my programming simple and linear. The online sources I used included:
--
+Weekly task: this week's task centered on Matplotlib plotting. While the histogram part felt familiar, the second task, plotting the function h(x) = x^3, posed a challenge. To understand the approach, I delved into NumPy documentation extensively. After some research, I found suitable options to accomplish the plot. Despite the initial difficulty, I managed to complete the task by keeping my programming simple and linear. The online sources I used included:
+- DataCamp https://www.datacamp.com/tutorial/histograms-matplotlib
+- Geeksforgeeks https://www.geeksforgeeks.org/matplotlib-pyplot-hist-in-python/
+- Numpy official documentation https://numpy.org/doc/stable/reference/generated/numpy.linspace.html
+- Matplotlib documentation https://matplotlib.org/stable/gallery/statistics/hist.html
+- W3 School https://www.w3schools.com/python/matplotlib_intro.asp
 
