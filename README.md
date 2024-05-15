@@ -1,7 +1,7 @@
 # Programming and Scripting Course Repository
 
 ## Introduction
-Hello! I am Francesca Ruberto, a student currently enrolled in the "Programming and Scripting" course at ATU Mato-Galway.
+Hello! I am Francesca Ruberto, a student currently enrolled in the "Programming and Scripting" course at ATU Mayo-Galway.
 
 ## Weekly Assignments
 ### Week 1
